@@ -1,0 +1,22 @@
+body{
+    background-color: dimgray;
+    background-image: url("https://png.pngtree.com/background/20230401/original/pngtree-sea-%E2%80%8B%E2%80%8Bsea-bottom-light-advertising-background-picture-image_2249618.jpg");
+    font-family: "segoe UI",Verdana, Geneva, Tahoma, sans-serif;
+}
+.perfil{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img{ 
+    height: 150px;
+    border-radius: 100px;
+    border: 10px solid black;
+    padding: 15px;
+}
+p{
+    padding-left: 200px;
+    padding-right: 200px;
+}
